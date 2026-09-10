@@ -1,24 +1,74 @@
 # norwegianblue
 
+[中文版本](./README.cn.md)
+
 CLI to show end-of-life dates
 
-- **Upstream**: <https://github.com/hugovk/norwegianblue>
-- **Homepage**: <https://endoflife.date>
-- **Latest release**: `0.25.0` (2026-06-30)
-- **Last commit**: 2026-09-01
-- **License**: MIT
-- **Stars**: 144 · **Forks**: 9 · **Open issues**: 23 · **Contributors**: 7
+![norwegianblue](https://repo.x-cmd.io/norwegianblue.svg)
 
-## Installation
+## Install
 
 ```sh
 x install norwegianblue
 ```
 
-See <https://x-cmd.com/install/norwegianblue> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/hugovk/norwegianblue>
+- **Homepage**: <https://endoflife.date>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:34:20Z._
+- **Latest**: `0.25.0` (2026-06-30)
+- **Last commit**: 2026-09-01
+- **Published**: 2026-06-30T14:38:11Z
+
+## Popularity
+
+- **Stars**: 144 · **Forks**: 9 · **Open issues**: 23 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 30 · **Merged PRs**: 272 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 3 · **Commits**: 1263
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 3 | 0 | 0 | 0 | 3 |
+| 90d | 2026-06-12 | 1 | 15 | 0 | 0 | 0 | 16 |
+| 360d | 2025-09-15 | 4 | 58 | 0 | 0 | 0 | 70 |
+
+## Code size
+
+Total: **1,610** lines of code across **19** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 1,450 | 81 | 233 | 12 |
+| Toml | 112 | 2 | 7 | 1 |
+| Ini | 48 | 0 | 6 | 1 |
+| Markdown | 0 | 218 | 63 | 2 |
+| Text | 0 | 38 | 4 | 3 |
+
+## OpenSSF Scorecard
+
+Overall score: **6.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
+## Improve this data
+
+Install metadata for norwegianblue lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `norwegianblue` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/norwegianblue.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:21:02Z._
