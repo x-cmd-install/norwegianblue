@@ -4,7 +4,7 @@
 
 CLI to show end-of-life dates
 
-[![x-cmd/install — norwegianblue Code Quality Monitoring Repo Card](https://repo.x-cmd.io/norwegianblue.svg)](https://x-cmd.com/install/norwegianblue)
+[![x-cmd/install — norwegianblue Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/norwegianblue.svg)](https://x-cmd.com/install/norwegianblue)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 7 | 0 | 0 | 0 | 8 |
-| 90d | 2026-06-24 | 1 | 14 | 0 | 0 | 0 | 13 |
-| last180d | 2026-03-26 | 1 | 26 | 0 | 0 | 0 | 30 |
-| 360d | 2025-09-27 | 4 | 58 | 0 | 0 | 0 | 67 |
-| last720d | 2024-10-02 | 8 | 88 | 1 | 2 | 1 | 181 |
+| 30d | 2026-08-24 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 7 | 0 | 0 | 0 | 8 |
+| 90d | 2026-06-25 | 1 | 12 | 0 | 0 | 0 | 13 |
+| last180d | 2026-03-27 | 1 | 26 | 0 | 0 | 0 | 30 |
+| 360d | 2025-09-28 | 4 | 58 | 0 | 0 | 0 | 67 |
+| last720d | 2024-10-03 | 8 | 88 | 1 | 2 | 1 | 181 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for norwegianblue lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:26:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:36:21Z._
