@@ -14,13 +14,13 @@ x install norwegianblue
 
 ## Code insight
 
-Total: **1,610** lines of code across **19** files in the top 5 languages.
+Total: **1,619** lines of code across **19** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 1,450 | 81 | 233 | 12 |
-| Toml | 112 | 2 | 7 | 1 |
-| Ini | 48 | 0 | 6 | 1 |
+| Python | 1,454 | 81 | 233 | 12 |
+| Toml | 115 | 2 | 7 | 1 |
+| Ini | 50 | 0 | 6 | 1 |
 | Markdown | 0 | 218 | 63 | 2 |
 | Text | 0 | 38 | 4 | 3 |
 
@@ -30,7 +30,7 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/6 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.25.0` (2026-06-30)
-- **Last commit**: 2026-09-01
+- **Latest**: `0.26.0` (2026-09-29)
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 272 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 3 · **Commits**: 1263
+- **Releases**: 31 · **Merged PRs**: 274 · **Open PRs**: 1 · **Closed issues**: 20 · **Open issues**: 3 · **Commits**: 1273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 3 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 6 | 0 | 0 | 0 | 3 |
-| 90d | 2026-07-01 | 0 | 9 | 0 | 0 | 0 | 9 |
-| last180d | 2026-04-02 | 1 | 24 | 0 | 0 | 0 | 24 |
-| 360d | 2025-10-04 | 4 | 54 | 0 | 0 | 0 | 66 |
-| last720d | 2024-10-09 | 8 | 87 | 1 | 2 | 1 | 179 |
+| 30d | 2026-08-31 | 1 | 5 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 1 | 5 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 1 | 11 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 2 | 26 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 5 | 56 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-10 | 9 | 89 | 1 | 2 | 1 | 189 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for norwegianblue lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:18:52Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:58:19Z._
