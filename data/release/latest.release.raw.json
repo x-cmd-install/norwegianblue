@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/hugovk/norwegianblue/releases/291789533",
-  "assets_url": "https://api.github.com/repos/hugovk/norwegianblue/releases/291789533/assets",
-  "upload_url": "https://uploads.github.com/repos/hugovk/norwegianblue/releases/291789533/assets{?name,label}",
-  "html_url": "https://github.com/hugovk/norwegianblue/releases/tag/0.25.0",
-  "id": 291789533,
+  "url": "https://api.github.com/repos/hugovk/norwegianblue/releases/347245055",
+  "assets_url": "https://api.github.com/repos/hugovk/norwegianblue/releases/347245055/assets",
+  "upload_url": "https://uploads.github.com/repos/hugovk/norwegianblue/releases/347245055/assets{?name,label}",
+  "html_url": "https://github.com/hugovk/norwegianblue/releases/tag/0.26.0",
+  "id": 347245055,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOFnrVS84RZFrd",
-  "tag_name": "0.25.0",
-  "target_commitish": "refs/heads/main",
-  "name": "0.25.0",
+  "node_id": "RE_kwDOFnrVS84Uson_",
+  "tag_name": "0.26.0",
+  "target_commitish": "main",
+  "name": "0.26.0",
   "draft": false,
-  "immutable": false,
+  "immutable": true,
   "prerelease": false,
-  "created_at": "2026-06-30T14:23:03Z",
-  "updated_at": "2026-06-30T14:38:11Z",
-  "published_at": "2026-06-30T14:38:11Z",
+  "created_at": "2026-09-29T14:28:38Z",
+  "updated_at": "2026-09-29T16:12:13Z",
+  "published_at": "2026-09-29T16:12:13Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/hugovk/norwegianblue/tarball/0.25.0",
-  "zipball_url": "https://api.github.com/repos/hugovk/norwegianblue/zipball/0.25.0",
-  "body": "## Changed\r\n\r\n* Use 2.2x faster PrettyTable for HTML output (#290) @hugovk\r\n* Use 2.3x faster PrettyTable for reStructuredText (#304) @hugovk\r\n* Use 2.3x faster PrettyTable for CSV & TSV output (#291) @hugovk\r\n* Use 1.7x faster PyYAML for YAML output (#305) @hugovk\r\n* Replace `logging` with `print` and defer `json` for faster import (#307) @hugovk\r\n",
+  "tarball_url": "https://api.github.com/repos/hugovk/norwegianblue/tarball/0.26.0",
+  "zipball_url": "https://api.github.com/repos/hugovk/norwegianblue/zipball/0.26.0",
+  "body": "## Added\r\n\r\n* Show cycle name in EOL colour (#311) @hugovk\r\n\r\n## Changed\r\n\r\n* Drop support for Python 3.10 (#320) @hugovk\r\n",
   "mentions_count": 1
 }
