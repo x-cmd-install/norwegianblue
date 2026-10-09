@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 8 | 0 | 0 | 0 | 14 |
-| last60d | 2026-08-09 | 1 | 11 | 0 | 0 | 0 | 17 |
-| 90d | 2026-07-10 | 1 | 15 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-11 | 2 | 31 | 0 | 0 | 0 | 38 |
-| 360d | 2025-10-13 | 5 | 61 | 0 | 0 | 0 | 73 |
-| last720d | 2024-10-18 | 8 | 92 | 1 | 2 | 1 | 195 |
+| 30d | 2026-09-09 | 1 | 8 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-10 | 1 | 11 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-11 | 1 | 15 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-12 | 2 | 31 | 0 | 0 | 0 | 38 |
+| 360d | 2025-10-14 | 5 | 61 | 0 | 0 | 0 | 73 |
+| last720d | 2024-10-19 | 8 | 92 | 1 | 2 | 1 | 195 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for norwegianblue lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:37:17Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:34:32Z._
