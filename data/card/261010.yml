@@ -200,4 +200,3 @@ checks:
     details:
       - 'Info: Project packages its releases by way of GitHub Actions.: .github/workflows/deploy.yml:34'
 ---
-{"id":347245055,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOFnrVS84Uson_","tag_name":"0.26.0","target_commitish":"main","name":"0.26.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-09-29T14:28:38Z","updated_at":"2026-09-29T16:12:13Z","published_at":"2026-09-29T16:12:13Z","assets":[],"body":"## Added\r\n\r\n* Show cycle name in EOL colour (#311) @hugovk\r\n\r\n## Changed\r\n\r\n* Drop support for Python 3.10 (#320) @hugovk\r\n","mentions_count":1}
