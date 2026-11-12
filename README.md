@@ -24,6 +24,16 @@ Total: **1,619** lines of code across **19** files in the top 5 languages.
 | Markdown | 0 | 218 | 63 | 2 |
 | Text | 0 | 38 | 4 | 3 |
 
+## OpenSSF Scorecard
+
+Overall score: **6.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/hugovk/norwegianblue>
@@ -37,7 +47,7 @@ Total: **1,619** lines of code across **19** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 153 · **Forks**: 10 · **Open issues**: 23 · **Contributors**: 7
+- **Stars**: 153 · **Forks**: 9 · **Open issues**: 23 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -47,12 +57,12 @@ Total: **1,619** lines of code across **19** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-09-12 | 1 | 11 | 0 | 0 | 0 | 17 |
-| 90d | 2026-08-13 | 1 | 14 | 0 | 0 | 0 | 20 |
-| last180d | 2026-05-15 | 2 | 29 | 0 | 0 | 0 | 36 |
-| 360d | 2025-11-16 | 4 | 56 | 0 | 0 | 0 | 73 |
-| last720d | 2024-11-21 | 7 | 89 | 0 | 1 | 1 | 184 |
+| 30d | 2026-10-13 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-13 | 1 | 11 | 0 | 0 | 0 | 17 |
+| 90d | 2026-08-14 | 1 | 14 | 0 | 0 | 0 | 20 |
+| last180d | 2026-05-16 | 2 | 29 | 0 | 0 | 0 | 36 |
+| 360d | 2025-11-17 | 4 | 56 | 0 | 0 | 0 | 73 |
+| last720d | 2024-11-22 | 7 | 89 | 0 | 1 | 1 | 183 |
 
 ## Improve this data
 
@@ -63,4 +73,4 @@ Install metadata for norwegianblue lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:51:34Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:09:07Z._
