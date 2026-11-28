@@ -7,7 +7,7 @@ about:
   latestVersion: "0.27.0"
   latestRelease: "0.27.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:07:13Z
+  collectedAt: 2026-11-28T08:48:33Z
 timeline:
   created: 2021-06-15
   lastCommit: 2026-11-25
@@ -27,7 +27,7 @@ language:
 totalBytes: 74252
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
     mergedPR: 9
     openPR: 0
@@ -35,15 +35,15 @@ recent:
     openIssue: 0
     commit: 9
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 17
+    mergedPR: 15
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 15
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
     mergedPR: 20
     openPR: 0
@@ -51,15 +51,15 @@ recent:
     openIssue: 0
     commit: 26
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 3
-    mergedPR: 35
+    mergedPR: 32
     openPR: 0
     closedIssue: 0
     openIssue: 0
     commit: 39
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 5
     mergedPR: 59
     openPR: 0
@@ -67,7 +67,7 @@ recent:
     openIssue: 0
     commit: 75
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 8
     mergedPR: 93
     openPR: 0
@@ -83,7 +83,7 @@ total:
   commit: 1294
 ---
 path: /home/runner/.x-repo/github.com/hugovk/norwegianblue
-collectedAt: 2026-11-27T09:07:13Z
+collectedAt: 2026-11-28T08:48:34Z
 loc:
   Python:
     code: 1600
